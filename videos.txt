@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 
+
+https://m3u8.vg/playlist.m3u8?server=RCServer22&subfolder=ondemand&vid=c0hIMEQ5N2RWVlVVR3poaTUydFd4d1BtcStralVoVE9hRkU9
+#EXTINF:-1
+https://m3u8.vg/playlist.m3u8?server=RCFServer5&subfolder=ondemand&vid=c0hIMEQ5N2NWMU1lRnpobTUycEx4QS9rdFlnPQ==
+#EXTINF:-2
+https://m3u8.vg/playlist.m3u8?server=RCFServer5&subfolder=ondemand&vid=c0hIMEROZlVXVlliRURobDUzMUl3UUxucHZOWEpnTElFVGJN
+#EXTINF:-3
+https://m3u8.vg/playlist.m3u8?server=RCFServer5&subfolder=ondemand&vid=c0hIMEQ5N2RVbFFiR3poZzRXeEgxQVRscS9oVQ==
+#EXTINF:-4
+https://m3u8.vg/playlist.m3u8?server=RCFServer3&subfolder=ondemand&vid=c0hIMEQ5N2NWMVVlRkRodTluWkp4SFRub3ZvPQ==
